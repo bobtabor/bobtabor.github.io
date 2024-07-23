@@ -1,3 +1,4 @@
+---
 layout: default
 title: "Example 01"
 permalink: /example-01/
